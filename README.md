@@ -35,6 +35,13 @@
 - ⚡ Especially interested in animations and modern JavaScript frameworks
 - 🛠  I love bringing creative interfaces to life through code
 
+<h2 align="left">📊 Most Used Languages:</h2>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-3384&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+
 <!--
 <h2 align="left">🤝 Let's Connect:</h2>
 
