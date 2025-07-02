@@ -41,6 +41,22 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-3384&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
+<h2 align="left">🎓 Education:</h2>
+
+<p align="left">
+  <!-- IHK Fachinformatiker -->
+  <img src="https://img.shields.io/badge/IHK%20–%20FACHINFORMATIKER%20ANWENDUNGSENTWICKLUNG-005CA9?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAASCAMAAABe6+5GAAAAVFBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////+0q3mSAAAAGnRSTlMAAxEmJ7b4HQt3BnMPnb6tSklEqfuPuN5Bk9bQySgAAABLSURBVBjTY2AgETZgZ2BiYGBkZCAEM5AwMDBQEwwMDCEkCZoBjHBiO5GAkRgMQwAMMTAzEDRAsJAmQsJExslJQyMNExNQCQEBAECGBfDJMoOUnAAAAAElFTkSuQmCC&logoColor=white" alt="IHK Fachinformatiker" />
+
+  <!-- Developer Akademie -->
+  <img src="https://img.shields.io/badge/DEVELOPER%20AKADEMIE-FD5B4F?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAbCAMAAAAmgB3lAAAARVBMVEUAAAD///////////////////////////////////////////////////////////////////+u/XHDAAAAGnRSTlMA7+8hQCCBLvkaEevyXyxCNR8xB8gFfI9eHgmNvFD5uEAAABWSURBVCjPjZLbDoAgDEUXqCCw2uT//9yVbT1GjA1dzgmcA0apDOAQ9JiErEYgqVapNcExiCy4HPoAD6iL44vSC6ZULgKqkmGoHfP1Oj//fduAk5HH5dEHDq8r4nITQgAAAABJRU5ErkJggg==&logoColor=white" alt="Developer Akademie" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/CODEWARS-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"/>
+  <img src="https://img.shields.io/badge/CODECADEMY-FFF?style=for-the-badge&logo=codecademy&logoColor=black" alt="Codecademy"/>
+  <img src="https://img.shields.io/badge/GEEKSFORGEEKS-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  <img src="https://img.shields.io/badge/UDEMY-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy"/>
+</p>
 
 <!--
 <h2 align="left">🤝 Let's Connect:</h2>
