@@ -60,7 +60,5 @@
 
 <h2 align="left">🤝 Let's Connect:</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Folgen-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/mohammed-abumustafa-2458392b8/)
-[![Xing](https://img.shields.io/badge/Xing-Profil-success?style=social&logo=xing)](https://www.xing.com/profile/Mohammed_Abumustafa)
-
-
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-mohammedabumustafa-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-abumustafa-2458392b8/)
+[![Xing Badge](https://img.shields.io/badge/Xing-mohammedabumustafa-brightgreen?style=flat-square&logo=xing&logoColor=white)](https://www.xing.com/profile/Mohammed_Abumustafa)
