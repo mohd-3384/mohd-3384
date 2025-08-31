@@ -51,6 +51,13 @@
   <img src="https://img.shields.io/badge/DEVELOPER%20AKADEMIE-FD5B4F?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAbCAMAAAAmgB3lAAAARVBMVEUAAAD///////////////////////////////////////////////////////////////////+u/XHDAAAAGnRSTlMA7+8hQCCBLvkaEevyXyxCNR8xB8gFfI9eHgmNvFD5uEAAABWSURBVCjPjZLbDoAgDEUXqCCw2uT//9yVbT1GjA1dzgmcA0apDOAQ9JiErEYgqVapNcExiCy4HPoAD6iL44vSC6ZULgKqkmGoHfP1Oj//fduAk5HH5dEHDq8r4nITQgAAAABJRU5ErkJggg==&logoColor=white" alt="Developer Akademie" />
 </p>
 
+<!-- IHK / Fachinformatiker AE -->
+<img src="https://img.shields.io/badge/%F0%9F%8E%93%20FACHINFORMATIKER%20ANWENDUNGSENTWICKLUNG-005CA9?style=for-the-badge" alt="IHK Fachinformatiker" />
+
+<!-- Developer Akademie -->
+<img src="https://img.shields.io/badge/%F0%9F%94%A7%20DEVELOPER%20AKADEMIE-FD5B4F?style=for-the-badge" alt="Developer Akademie" />
+
+
 <p align="left">
   <img src="https://img.shields.io/badge/CODEWARS-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"/>
   <img src="https://img.shields.io/badge/CODECADEMY-FFF?style=for-the-badge&logo=codecademy&logoColor=black" alt="Codecademy"/>
