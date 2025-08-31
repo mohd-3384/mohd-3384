@@ -51,11 +51,11 @@
   <img src="https://img.shields.io/badge/DEVELOPER%20AKADEMIE-FD5B4F?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAbCAMAAAAmgB3lAAAARVBMVEUAAAD///////////////////////////////////////////////////////////////////+u/XHDAAAAGnRSTlMA7+8hQCCBLvkaEevyXyxCNR8xB8gFfI9eHgmNvFD5uEAAABWSURBVCjPjZLbDoAgDEUXqCCw2uT//9yVbT1GjA1dzgmcA0apDOAQ9JiErEYgqVapNcExiCy4HPoAD6iL44vSC6ZULgKqkmGoHfP1Oj//fduAk5HH5dEHDq8r4nITQgAAAABJRU5ErkJggg==&logoColor=white" alt="Developer Akademie" />
 </p>
 
-<!-- IHK / Fachinformatiker AE -->
-<img src="https://img.shields.io/badge/%F0%9F%8E%93%20FACHINFORMATIKER%20ANWENDUNGSENTWICKLUNG-005CA9?style=for-the-badge" alt="IHK Fachinformatiker" />
+<!-- Beispiel: generisches cap-Icon als SVG-Base64 -->
+<img src="https://img.shields.io/badge/FACHINFORMATIKER%20ANWENDUNGSENTWICKLUNG-005CA9?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMy43bDkuNSAzLjctOS41IDMuN0wydi03LjRsMTAgMy43eiIvPjxwYXRoIGQ9Ik0xOSA5LjR2NC4xYzAgMS44LTIuOSAzLjQtNyAzLjRzLTctMS42LTctMy40VjkuNCIgZmlsbD0iI2ZmZiIgZmlsbC1vcGFjaXR5PSIwLjYiLz48L3N2Zz4=" alt="IHK Fachinformatiker" />
 
-<!-- Developer Akademie -->
-<img src="https://img.shields.io/badge/%F0%9F%94%A7%20DEVELOPER%20AKADEMIE-FD5B4F?style=for-the-badge" alt="Developer Akademie" />
+<img src="https://img.shields.io/badge/DEVELOPER%20AKADEMIE-FD5B4F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI4IiBjeT0iMTIiIHI9IjMiLz48cmVjdCB4PSIxMyIgeT0iOSIgd2lkdGg9IjgiIGhlaWdodD0iNiIgcnk9IjEiLz48L3N2Zz4=" alt="Developer Akademie" />
+
 
 
 <p align="left">
