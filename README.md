@@ -52,10 +52,15 @@
 </p>
 
 
-<img src="https://img.shields.io/badge/FACHINFORMATIKER%20ANWENDUNGSENTWICKLUNG-005CA9?style=for-the-badge&logo=data:image/svg+xml;base64,DEIN_IHK_BASE64&logoColor=white&logoWidth=30" />
+<span style="display:inline-flex;align-items:center;background:#005CA9;color:#fff;font-weight:600;font-family:sans-serif;padding:6px 12px;border-radius:6px;margin:4px;">
+  <img src="data:image/svg+xml;base64,DEIN_IHK_BASE64" alt="IHK" style="height:24px;margin-right:8px;">
+  FACHINFORMATIKER ANWENDUNGSENTWICKLUNG
+</span>
 
-<img src="https://img.shields.io/badge/DEVELOPER%20AKADEMIE-FD5B4F?style=for-the-badge&logo=data:image/svg+xml;base64,DEIN_DEV_AKADEMIE_BASE64&logoColor=white&logoWidth=30" />
-
+<span style="display:inline-flex;align-items:center;background:#FD5B4F;color:#fff;font-weight:600;font-family:sans-serif;padding:6px 12px;border-radius:6px;margin:4px;">
+  <img src="data:image/svg+xml;base64,DEIN_DEV_AKADEMIE_BASE64" alt="Developer Akademie" style="height:24px;margin-right:8px;">
+  DEVELOPER AKADEMIE
+</span>
 
 
 <p align="left">
