@@ -52,9 +52,10 @@
 </p>
 
 
-<img src="https://img.shields.io/badge/FACHINFORMATIKER%20ANWENDUNGSENTWICKLUNG-005CA9?style=for-the-badge&logo=data:image/svg+xml;base64,CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgNTEyIDEyOCIgd2lkdGg9IjUxMiIgaGVpZ2h0PSIxMjgiPgogIDxyZWN0IHdpZHRoPSI1MTIiIGhlaWdodD0iMTI4IiBmaWxsPSIjMDA0MTdiIi8+CiAgPHRleHQgeD0iMTMwIiB5PSI4NSIgZm9udC1zaXplPSI3MiIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmaWxsPSJ3aGl0ZSI+SUhLPC90ZXh0PgogIDxwYXRoIGQ9Ik02MCwzMCBMODAsMzAgTDgwLDEwMCBMNjAsMTAwIFogTTkwLDQwIEwxMTAsNDAgTDExMCw5MCBMOTAsOTAgWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+" alt="IHK Fachinformatiker" />
+<img src="https://img.shields.io/badge/FACHINFORMATIKER%20ANWENDUNGSENTWICKLUNG-005CA9?style=for-the-badge&logo=data:image/svg+xml;base64,DEIN_IHK_BASE64&logoColor=white&logoWidth=30" />
 
-<img src="https://img.shields.io/badge/DEVELOPER%20AKADEMIE-FD5B4F?style=for-the-badge&logo=data:image/svg+xml;base64,CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgNjQgNjQiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+CiAgPHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSJ3aGl0ZSIvPgogIDxnIGZpbGw9IiNGRDVCNEYiPgogICAgPHJlY3QgeD0iOCIgeT0iMTYiIHdpZHRoPSI0OCIgaGVpZ2h0PSIzMiIgcng9IjQiIHJ5PSI0IiBzdHJva2U9IiNGRDVCNEYiIHN0cm9rZS13aWR0aD0iMiIgZmlsbD0ibm9uZSIvPgogICAgPHRleHQgeD0iMzIiIHk9IjM4IiBmb250LXNpemU9IjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZpbGw9IiNGRDVCNEYiPiZsdDsvJmd0OzwvdGV4dD4KICA8L2c+Cjwvc3ZnPg==&logoColor=white" alt="Developer Akademie" />
+<img src="https://img.shields.io/badge/DEVELOPER%20AKADEMIE-FD5B4F?style=for-the-badge&logo=data:image/svg+xml;base64,DEIN_DEV_AKADEMIE_BASE64&logoColor=white&logoWidth=30" />
+
 
 
 <p align="left">
