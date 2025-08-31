@@ -60,9 +60,10 @@
 
 <h2 align="left">🤝 Let's Connect:</h2>
 
-[![LinkedIn Badge](https://img.shields.io/badge/-mohammedabumustafa-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammed-abumustafa)](https://www.linkedin.com/in/mohammed-abumustafa-2458392b8/)
-[![GitHub Badge](https://img.shields.io/badge/-mohammedabumustafa-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/mohd-3384)](https://github.com/mohd-3384)
-[![Xing Badge](https://img.shields.io/badge/-mohammedabumustafa-brightgreen?style=flat-square&logo=xing&logoColor=white&link=https://www.xing.com/profile/Mohammed_Abumustafa)](https://www.xing.com/profile/Mohammed_Abumustafa)
+[![LinkedIn Badge](https://img.shields.io/badge/-mohammedabumustafa-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-abumustafa-2458392b8/)
+[![GitHub Badge](https://img.shields.io/badge/-mohammedabumustafa-black?style=flat-square&logo=github&logoColor=white)](https://github.com/mohd-3384)
+[![Xing Badge](https://img.shields.io/badge/-mohammedabumustafa-brightgreen?style=flat-square&logo=xing&logoColor=white)](https://www.xing.com/profile/Mohammed_Abumustafa)
+
 
 
 
