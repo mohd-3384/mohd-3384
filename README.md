@@ -46,9 +46,14 @@
 <p align="left">
   <!-- IHK Fachinformatiker -->
   <img src="https://img.shields.io/badge/%20FACHINFORMATIKER%20ANWENDUNGSENTWICKLUNG-005CA9?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAASCAMAAABe6+5GAAAAVFBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////+0q3mSAAAAGnRSTlMAAxEmJ7b4HQt3BnMPnb6tSklEqfuPuN5Bk9bQySgAAABLSURBVBjTY2AgETZgZ2BiYGBkZCAEM5AwMDBQEwwMDCEkCZoBjHBiO5GAkRgMQwAMMTAzEDRAsJAmQsJExslJQyMNExNQCQEBAECGBfDJMoOUnAAAAAElFTkSuQmCC&logoColor=white" alt="IHK Fachinformatiker" />
+<!-- IHK Fachinformatiker -->
+<img src="https://img.shields.io/badge/FACHINFORMATIKER%20ANWENDUNGSENTWICKLUNG-005CA9?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAMAAAC6V+0/AAAARVBMVEUAAAD///////////////////////////////////////////////////////////////////9hAn5gAAAAGHRSTlMAECAwQFBgcICQoK+wsbKztb/Aw8jJ0tnf4NhkAAAAZUlEQVR42mLAA2IggKkUg5ChpCUkwVgMBCIQVhgHEAtoJmJxgUxhGQMQoDcA4ih4sAKBQDBPwWYxIzgYRBQAyRLEBjB0IGsKMHoxg5F4HgkI2EgkEykmGNgAAAw2YDAx0L5CMAAAAASUVORK5CYII=" alt="IHK Fachinformatiker" />
 
   <!-- Developer Akademie -->
   <img src="https://img.shields.io/badge/DEVELOPER%20AKADEMIE-FD5B4F?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAbCAMAAAAmgB3lAAAARVBMVEUAAAD///////////////////////////////////////////////////////////////////+u/XHDAAAAGnRSTlMA7+8hQCCBLvkaEevyXyxCNR8xB8gFfI9eHgmNvFD5uEAAABWSURBVCjPjZLbDoAgDEUXqCCw2uT//9yVbT1GjA1dzgmcA0apDOAQ9JiErEYgqVapNcExiCy4HPoAD6iL44vSC6ZULgKqkmGoHfP1Oj//fduAk5HH5dEHDq8r4nITQgAAAABJRU5ErkJggg==&logoColor=white" alt="Developer Akademie" />
+  <!-- Developer Akademie -->
+<img src="https://img.shields.io/badge/DEVELOPER%20AKADEMIE-FD5B4F?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAMAAAC6V+0/AAAARVBMVEUAAAD///////////////////////////////////////////////////////////////////9hAn5gAAAAGHRSTlMAECAwQFBgcICQoK+wsbKztb/Aw8jJ0tnf4NhkAAAAZUlEQVR42mLAA2IggKkUg5ChpCUkwVgMBCIQVhgHEAtoJmJxgUxhGQMQoDcA4ih4sAKBQDBPwWYxIzgYRBQAyRLEBjB0IGsKMHoxg5F4HgkI2EgkEykmGNgAAAw2YDAx0L5CMAAAAASUVORK5CYII=" alt="Developer Akademie" />
+
 </p>
 
 <p align="left">
