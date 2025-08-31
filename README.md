@@ -51,17 +51,13 @@
   <img src="https://img.shields.io/badge/DEVELOPER%20AKADEMIE-FD5B4F?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAbCAMAAAAmgB3lAAAARVBMVEUAAAD///////////////////////////////////////////////////////////////////+u/XHDAAAAGnRSTlMA7+8hQCCBLvkaEevyXyxCNR8xB8gFfI9eHgmNvFD5uEAAABWSURBVCjPjZLbDoAgDEUXqCCw2uT//9yVbT1GjA1dzgmcA0apDOAQ9JiErEYgqVapNcExiCy4HPoAD6iL44vSC6ZULgKqkmGoHfP1Oj//fduAk5HH5dEHDq8r4nITQgAAAABJRU5ErkJggg==&logoColor=white" alt="Developer Akademie" />
 </p>
 
+<p align="left">
+  <!-- IHK Fachinformatiker -->
+  <img src="https://img.shields.io/badge/Fachinformatiker%20Anwendungsentwicklung%20--%20IHK-005CA9?style=for-the-badge&labelColor=005CA9" alt="IHK Fachinformatiker" />
 
-<span style="display:inline-flex;align-items:center;background:#005CA9;color:#fff;font-weight:600;font-family:sans-serif;padding:6px 12px;border-radius:6px;margin:4px;">
-  <img src="data:image/svg+xml;base64,DEIN_IHK_BASE64" alt="IHK" style="height:24px;margin-right:8px;">
-  FACHINFORMATIKER ANWENDUNGSENTWICKLUNG
-</span>
-
-<span style="display:inline-flex;align-items:center;background:#FD5B4F;color:#fff;font-weight:600;font-family:sans-serif;padding:6px 12px;border-radius:6px;margin:4px;">
-  <img src="data:image/svg+xml;base64,DEIN_DEV_AKADEMIE_BASE64" alt="Developer Akademie" style="height:24px;margin-right:8px;">
-  DEVELOPER AKADEMIE
-</span>
-
+  <!-- Developer Akademie -->
+  <img src="https://img.shields.io/badge/Frontend%20Developer%20--%20Developer%20Akademie-FD5B4F?style=for-the-badge&labelColor=FD5B4F" alt="Developer Akademie" />
+</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/CODEWARS-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"/>
